@@ -7,12 +7,12 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDHrir-9OTJJKBlB3AQFlWHBtcABWFPbXM",
-  authDomain: "online-job-portal-43df2.firebaseapp.com",
-  projectId: "online-job-portal-43df2",
-  storageBucket: "online-job-portal-43df2.firebasestorage.app",
-  messagingSenderId: "1091317372660",
-  appId: "1:1091317372660:web:026ec0ed2004ddbe1370a1"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 // Initialize Firebase
